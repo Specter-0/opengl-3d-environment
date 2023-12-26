@@ -1,5 +1,5 @@
-# chaotic-attractors
+# 3D Environment
 
-## GOAL
+### created by following the learn opengl tutorial
 
-![my goal](./md/goal.png)
+![video](./md/video.mp4)
