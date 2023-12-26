@@ -6,7 +6,7 @@
 for better resolution view video.mp4 in /md
 
 ## To Run
-// bash
+``` bash
 make
-//
+```
 In root
