@@ -7,7 +7,7 @@
 
 ---
 
-# To Run
+# *To Run*
 #### Run the makefile with
 ``` bash
 make
@@ -15,3 +15,7 @@ make
 #### In Project Root
 
 ---
+
+### Tutorial Followed
+
+#### [Tutorial](https://learnopengl.com/Introduction)
