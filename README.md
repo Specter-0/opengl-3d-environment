@@ -7,8 +7,10 @@
 
 ---
 
-## To Run
+# To Run
 ``` bash
 make
 ```
-In root
+#### In Project Root
+
+---
