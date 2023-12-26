@@ -3,7 +3,9 @@
 ### created by following the learn opengl tutorial
 
 ![video should be here](./md/video.webp)
-for better resolution view video.mp4 in /md
+> for better resolution view video.mp4 in /md
+
+---
 
 ## To Run
 ``` bash
