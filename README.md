@@ -8,6 +8,7 @@
 ---
 
 # To Run
+#### Run the makefile with
 ``` bash
 make
 ```
