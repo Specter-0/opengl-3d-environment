@@ -18,4 +18,4 @@ make
 
 ### Tutorial Followed
 
-#### [Tutorial](https://learnopengl.com/Introduction)
+#### [Learn Opengl](https://learnopengl.com/Introduction)
